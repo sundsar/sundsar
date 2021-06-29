@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sundsar
 - 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me sundsar.ss@gmail.com
 
